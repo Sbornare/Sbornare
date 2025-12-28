@@ -29,8 +29,11 @@ Building intelligent systems that scale from <b>data → deployment</b>
 <h2 align="center">🎥 Live 3D Design Preview</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80%" />
+  <a href="assets/spline-preview.gif">
+    <img src="assets/spline-thumbnail.png" width="80%" />
+  </a>
 </p>
+
 
 <p align="center">
 <i>Interactive 3D experience built using Spline</i>
