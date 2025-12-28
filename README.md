@@ -26,25 +26,16 @@ Building intelligent systems that scale from <b>data → deployment</b>
 
 ---
 
-<h2 align="center">🎥 Live 3D Design Preview</h2>
-
-<p align="center">
-  <a href="assets/spline-preview.gif">
-    <img src="assets/spline-thumbnail.png" width="80%" />
-  </a>
-</p>
 
 
-<p align="center">
-<i>Interactive 3D experience built using Spline</i>
-</p>
+
 
 <h2 align="center">🔥 Featured Projects</h2>
 
 <p align="center">
 
-🩺 <b>ECG Analysis using ML</b><br>
-Single-lead ECG signal processing using multiple ML models to enhance cardiovascular risk detection
+🩺 <b>Medi-Rem — AI-Powered Medical Reminder & Assistance System</b>
+Medi-Rem is an intelligent healthcare-focused system designed to assist users with <b>medication reminders, health monitoring, and smart medical assistance</b>.  
 
 📈 <b>Stock Market Prediction System</b><br>
 LSTM & RNN based forecasting with historical + real-time data integration
@@ -64,27 +55,27 @@ Automatically extracts key insights from long-form video transcripts
 <p align="center">
 
 <strong>Languages</strong><br>
-<h2 align="center"> <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white"/></h2>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
 <br><br>
 
 <strong>AI / ML</strong><br>
-<h2 align="center"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white"/></h2>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
 <br><br>
 
-<strong>Databases & Cloud</strong><br>
-<h2 align="center"><img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=firebase"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-000000?style=plastic&logo=netlify&logoColor=00C7B7"/></h2>
+<strong>Databases, Cloud & Deployments </strong><br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
 
 </p>
 
@@ -108,6 +99,9 @@ Automatically extracts key insights from long-form video transcripts
   <img src="https://visitcount.itsvg.in/api?id=Sbornare&label=Profile%20Views&color=12&icon=5&pretty=true" />
 </p>
 
+<p align="center">
+  <img src="assets/spline-preview.gif" width="60%" />
+</p>
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
