@@ -3,12 +3,18 @@
 </p>
 
 ---
-<p align="left">
-  <img src="assets/spline-preview.gif" width="60%" />
-</p>
-<p align="right">
-  <img src="assets/Finn.gif" width="20%" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="assets/spline-preview.gif" width="90%" />
+    </td>
+    <td align="center">
+      <img src="assets/Finn.gif" width="60%" />
+    </td>
+  </tr>
+</table>
+
+
 <h2 align="center">🧠 About Me</h2>
 
 <p align="center">
@@ -30,9 +36,6 @@ Building intelligent systems that scale from <b>data → deployment</b>
 </p>
 
 ---
-
-
-
 
 
 <h2 align="center">🔥 Featured Projects</h2>
