@@ -80,6 +80,9 @@ Automatically extracts key insights from long-form video transcripts
 </p>
 
 ---
+<p align="center">
+  <img src="assets/spline-preview.gif" width="60%" />
+</p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -99,9 +102,7 @@ Automatically extracts key insights from long-form video transcripts
   <img src="https://visitcount.itsvg.in/api?id=Sbornare&label=Profile%20Views&color=12&icon=5&pretty=true" />
 </p>
 
-<p align="center">
-  <img src="assets/spline-preview.gif" width="60%" />
-</p>
+
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
