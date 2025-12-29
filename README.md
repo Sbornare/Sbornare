@@ -3,7 +3,12 @@
 </p>
 
 ---
-
+<p align="left">
+  <img src="assets/spline-preview.gif" width="60%" />
+</p>
+<p align="right">
+  <img src="assets/Finn.gif" width="60%" />
+</p>
 <h2 align="center">🧠 About Me</h2>
 
 <p align="center">
@@ -80,9 +85,6 @@ Automatically extracts key insights from long-form video transcripts
 </p>
 
 ---
-<p align="center">
-  <img src="assets/spline-preview.gif" width="60%" />
-</p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
