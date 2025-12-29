@@ -7,7 +7,7 @@
   <img src="assets/spline-preview.gif" width="60%" />
 </p>
 <p align="right">
-  <img src="assets/Finn.gif" width="60%" />
+  <img src="assets/Finn.gif" width="20%" />
 </p>
 <h2 align="center">🧠 About Me</h2>
 
